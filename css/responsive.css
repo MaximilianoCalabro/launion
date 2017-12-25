@@ -9,6 +9,10 @@
 	#home-carousel  .item {
 		height: 500px;
 	}
+	
+	#mycarousel  .item {
+		height: 500px;
+	}
 
 	.carousel-caption h1 {
 		font-size:26px;
@@ -42,6 +46,10 @@
 	}
 
 	#home-carousel  .item {
+		height: 500px;
+	}
+
+	#mycarousel  .item {
 		height: 500px;
 	}
 
@@ -111,6 +119,10 @@
 
 	#home-carousel  .item {
 		height: 300px;
+	}
+
+	#mycarousel  .item {
+		height: 500px;
 	}
 
 	.carousel-caption h1 {
